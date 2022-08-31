@@ -1,0 +1,15 @@
+/home/scarlettlynn/C#/Begining/bin/Debug/net6.0/Begining
+/home/scarlettlynn/C#/Begining/bin/Debug/net6.0/Begining.deps.json
+/home/scarlettlynn/C#/Begining/bin/Debug/net6.0/Begining.runtimeconfig.json
+/home/scarlettlynn/C#/Begining/bin/Debug/net6.0/Begining.dll
+/home/scarlettlynn/C#/Begining/bin/Debug/net6.0/Begining.pdb
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.csproj.AssemblyReference.cache
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.GeneratedMSBuildEditorConfig.editorconfig
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.AssemblyInfoInputs.cache
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.AssemblyInfo.cs
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.csproj.CoreCompileInputs.cache
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.dll
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/refint/Begining.dll
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.pdb
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/Begining.genruntimeconfig.cache
+/home/scarlettlynn/C#/Begining/obj/Debug/net6.0/ref/Begining.dll
